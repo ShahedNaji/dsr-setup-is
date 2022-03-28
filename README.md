@@ -8,5 +8,3 @@
     * [repo template](https://github.com/Iskriyana/data-science-project-template)  
 
 ## Detailed Instructions
-test.rtf
-cd
